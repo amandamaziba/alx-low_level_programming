@@ -8,15 +8,17 @@
 int main(void)
 {
 	int i = 97;
+	int x = 65;
 
 	while (i <= 122)
 	{
-		if (i == 'e' || i == 'q')
-		{
-			i++;
-		}
 		putchar(i);
 		i++;
+	}
+	while (x <= 90)
+	{
+		putchar(x);
+		x++;
 	}
 	putchar('\n');
 	return (0);
