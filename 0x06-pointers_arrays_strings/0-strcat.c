@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * char *_strcat- returns the length of a string
+ * _strcat- returns the length of a string
  * @dest: pointer to
  * @src: pointer from
  * Return: dest
