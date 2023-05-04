@@ -4,6 +4,7 @@
  * _strncat - returns the length of a string
  * @dest: string copied to
  * @src: string copied from
+ * @n: number of bytes
  * Return: dest
  */
 char *_strncat(char *dest, char *src, int n)
