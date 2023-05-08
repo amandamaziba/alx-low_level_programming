@@ -2,7 +2,7 @@
 
 /**
  * set_string - sets the value of a pointer to a char
- * @s: pointer
+ * @s: pointer to pointer
  * @to: pointer to char
  * Return: Always 0
  */
